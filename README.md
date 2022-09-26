@@ -14,6 +14,10 @@ _Я начинающий React-разработчик😎_
 
 <br/>
 
+<br/>
+
+### Статистика:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkaterinaVokin&show_icons=true&theme=tokyonight)
 
 <br/>
