@@ -4,8 +4,7 @@ _Я начинающий React-разработчик😎_
 
 ***
 
-##Мой стeк:
+## Мой стeк:
 <br>
-<img  alt="css" width="30px" src="https://user-images.githubusercontent.com/100767361/192204900-b4cd5e87-e3df-4eeb-9edb-2adda57393d1.png">
-
+<img  alt="css" width="32px" src="https://user-images.githubusercontent.com/100767361/192206038-2b194ea8-765f-452b-869d-5d046e7c44ca.png">
 
