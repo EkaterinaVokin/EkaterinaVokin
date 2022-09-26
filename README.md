@@ -17,7 +17,7 @@ _Я начинающий React-разработчик😎_
 <img align="left" alt="react" width="32px" src="https://user-images.githubusercontent.com/100767361/192206913-8dd56161-b169-48e5-a440-12e188f6b5cc.png">
 
 <br/>
-
+***
 <br/>
 
 ### 📊 Моя статистика:
