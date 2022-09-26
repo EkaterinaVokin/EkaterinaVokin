@@ -1,5 +1,5 @@
 ___Всем привет, меня зовут Екатерина Водянкина!___
-<br>
+<br/>
 _Я начинающий React-разработчик😎_
 
 ***
@@ -11,5 +11,11 @@ _Я начинающий React-разработчик😎_
 <img align="left" alt="js" width="32px" src="https://user-images.githubusercontent.com/100767361/192206650-69ba588f-090b-45b4-85f0-d108392effbf.png">
 <img align="left" alt="git" width="32px" src="https://user-images.githubusercontent.com/100767361/192206773-abbd38dd-7dcd-47b9-97de-826bd3a30836.png">
 <img align="left" alt="react" width="32px" src="https://user-images.githubusercontent.com/100767361/192206913-8dd56161-b169-48e5-a440-12e188f6b5cc.png">
+
+***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkaterinaVokin&show_icons=true&theme=radical)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaterinaVokin&layout=compact)
+
 
 
