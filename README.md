@@ -28,6 +28,10 @@ _Я начинающий React-разработчик😎_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaterinaVokin&layout=compact)
 
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EkaterinaVokin&theme=solarized_dark)
+
 
 📩 Почта: @ekaterina.lopandina@yandex.ru
 <br/>
