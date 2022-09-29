@@ -30,4 +30,5 @@ _Я начинающий React-разработчик😎_
 
 
 📩 Почта: @ekaterina.lopandina@yandex.ru
+<br/>
 📱 Telegram: @KatyaVokin
